@@ -7,7 +7,7 @@
 
 I am currently a Final-year [AIML](https://www.sanjayghodawatuniversity.ac.in/dept-aiml) B.tech student at the [Sanjay Ghodawat University](https://www.sanjayghodawatuniversity.ac.in/). <!--  I specialize in understanding and working with different sensing modalities. This requires me to work in pretty diverse fields: Computer Vision, NLU, 3D Vision, Causal Inference, Compressed Sensing, Human-Computer Interaction, and more... I keep on trying to decide on a sub-domain to focus on, but problems with real-world applications of AI/Stats are too many to ignore! So for now, I'll continue to pretend that I work on <b>Interdisciplinary AI :)</b>  -->
 
-I always look for exciting research opportunities, so do drop by if you want to discuss!
+I always look for exciting opportunities, so do drop by if you want to discuss!
 
 <img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=blueviolet"/>
 
