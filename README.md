@@ -20,7 +20,6 @@ I always look for exciting opportunities, so do drop by if you want to discuss!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Varadpensalwar&icon=9&color=8)](https://visitcount.itsvg.in)
-
 I live on the internet.
   
 You can find more of me, in <a href="https://varadpensalwar.github.io/"><strong>my homepage.</strong></a>
