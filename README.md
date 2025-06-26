@@ -56,117 +56,450 @@
 </div>
 
 ## 🚀 **Core Programming Languages**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+</div>
+
+<br>
+
 <div align="center">
 
-| Language | Proficiency | Experience | Projects |
-|----------|-------------|------------|----------|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ⭐⭐⭐⭐⭐ | 3+ Years | AI/ML, Backend, Automation |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ⭐⭐⭐⭐⭐ | 3+ Years | Full-Stack, Real-time Apps |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ⭐⭐⭐⭐ | 2+ Years | Enterprise Apps, Type Safety |
-| ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ⭐⭐⭐⭐ | 2+ Years | Flutter Mobile Apps |
-| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ⭐⭐⭐ | 2+ Years | Backend Development |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ⭐⭐⭐ | 2+ Years | System Programming |
+| 💻 **Language** | 🎯 **Proficiency** | ⏱️ **Experience** | 🚀 **Specialization** |
+|:---------------:|:------------------:|:-----------------:|:---------------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <br> **Python** | <img src="https://img.shields.io/badge/Expert-FF6B35?style=flat-square&logoColor=white"/> <br> ⭐⭐⭐⭐⭐ | **3+ Years** | AI/ML • Backend • Automation |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> <br> **JavaScript** | <img src="https://img.shields.io/badge/Expert-F7DF1E?style=flat-square&logoColor=black"/> <br> ⭐⭐⭐⭐⭐ | **3+ Years** | Full-Stack • Real-time Apps |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> <br> **TypeScript** | <img src="https://img.shields.io/badge/Advanced-007ACC?style=flat-square&logoColor=white"/> <br> ⭐⭐⭐⭐ | **2+ Years** | Enterprise • Type Safety |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/> <br> **Dart** | <img src="https://img.shields.io/badge/Advanced-0175C2?style=flat-square&logoColor=white"/> <br> ⭐⭐⭐⭐ | **2+ Years** | Flutter • Mobile Apps |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> <br> **PHP** | <img src="https://img.shields.io/badge/Proficient-777BB4?style=flat-square&logoColor=white"/> <br> ⭐⭐⭐ | **2+ Years** | Backend • Web Development |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <br> **C++** | <img src="https://img.shields.io/badge/Proficient-00599C?style=flat-square&logoColor=white"/> <br> ⭐⭐⭐ | **2+ Years** | System • Performance |
 
 </div>
 
 ## 🌐 **Frontend Mastery**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+</div>
+
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+<br><strong>HTML5</strong>
+<br><img src="https://img.shields.io/badge/Expert-E34F26?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+<br><strong>CSS3</strong>
+<br><img src="https://img.shields.io/badge/Expert-1572B6?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50"/>
+<br><strong>SASS</strong>
+<br><img src="https://img.shields.io/badge/Advanced-CC6699?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+<br><strong>React</strong>
+<br><img src="https://img.shields.io/badge/Expert-61DAFB?style=flat-square&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+<br><strong>Next.js</strong>
+<br><img src="https://img.shields.io/badge/Advanced-000000?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
+<br><strong>Tailwind</strong>
+<br><img src="https://img.shields.io/badge/Expert-38B2AC?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+<br><strong>Bootstrap</strong>
+<br><img src="https://img.shields.io/badge/Advanced-7952B3?style=flat-square&logoColor=white"/>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="50" height="50"/>
+<br><strong>Material UI</strong>
+<br><img src="https://img.shields.io/badge/Advanced-0081CB?style=flat-square&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 **🎨 Specializations:** Responsive Design • Modern UI/UX • Component Architecture • Performance Optimization
 
 </div>
 
 ## ⚡ **Backend & Server Technologies**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+</div>
+
 <div align="center">
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/>
+<br><strong>Node.js</strong>
+<br><img src="https://img.shields.io/badge/Expert-339933?style=flat-square&logoColor=white"/>
+<br><sub>⚡ High Performance</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="55" height="55"/>
+<br><strong>Express.js</strong>
+<br><img src="https://img.shields.io/badge/Expert-000000?style=flat-square&logoColor=white"/>
+<br><sub>🚀 Fast & Minimal</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="55" height="55"/>
+<br><strong>FastAPI</strong>
+<br><img src="https://img.shields.io/badge/Advanced-009688?style=flat-square&logoColor=white"/>
+<br><sub>🔥 Modern Python</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55" height="55"/>
+<br><strong>Flask</strong>
+<br><img src="https://img.shields.io/badge/Advanced-000000?style=flat-square&logoColor=white"/>
+<br><sub>🐍 Python Micro</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" height="55"/>
+<br><strong>Django</strong>
+<br><img src="https://img.shields.io/badge/Proficient-092E20?style=flat-square&logoColor=white"/>
+<br><sub>🎯 Full Framework</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="55" height="55"/>
+<br><strong>GraphQL</strong>
+<br><img src="https://img.shields.io/badge/Advanced-E10098?style=flat-square&logoColor=white"/>
+<br><sub>📊 Query Language</sub>
+</td>
+</tr>
+</table>
 
 **🔧 Expertise:** RESTful APIs • GraphQL • Microservices • Real-time Systems • Authentication & Security
 
 </div>
 
 ## 📱 **Mobile Development Excellence**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
+</div>
+
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60" height="60"/>
+<br><strong>Flutter</strong>
+<br><img src="https://img.shields.io/badge/Expert-02569B?style=flat-square&logoColor=white"/>
+<br><sub>🎯 Cross-Platform Master</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="60" height="60"/>
+<br><strong>Swift</strong>
+<br><img src="https://img.shields.io/badge/Advanced-FA7343?style=flat-square&logoColor=white"/>
+<br><sub>🍎 iOS Native</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="60" height="60"/>
+<br><strong>Kotlin</strong>
+<br><img src="https://img.shields.io/badge/Advanced-7F52FF?style=flat-square&logoColor=white"/>
+<br><sub>🤖 Android Native</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60"/>
+<br><strong>React Native</strong>
+<br><img src="https://img.shields.io/badge/Proficient-20232A?style=flat-square&logoColor=white"/>
+<br><sub>⚛️ JS Cross-Platform</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="60" height="60"/>
+<br><strong>Android</strong>
+<br><img src="https://img.shields.io/badge/Advanced-3DDC84?style=flat-square&logoColor=white"/>
+<br><sub>🤖 Native Development</sub>
+</td>
+<td align="center" width="160">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="60" height="60"/>
+<br><strong>iOS</strong>
+<br><img src="https://img.shields.io/badge/Advanced-000000?style=flat-square&logoColor=white"/>
+<br><sub>🍎 Native Development</sub>
+</td>
+</tr>
+</table>
 
 **📲 Platforms:** iOS • Android • Cross-Platform • Progressive Web Apps
 
 </div>
 
 ## 🤖 **AI/ML & Data Science Powerhouse**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
+</div>
+
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/>
+<br><strong>TensorFlow</strong>
+<br><img src="https://img.shields.io/badge/Expert-FF6F00?style=flat-square&logoColor=white"/>
+<br><sub>🧠 Deep Learning</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="55" height="55"/>
+<br><strong>PyTorch</strong>
+<br><img src="https://img.shields.io/badge/Advanced-EE4C2C?style=flat-square&logoColor=white"/>
+<br><sub>🔥 Research ML</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="55" height="55"/>
+<br><strong>OpenCV</strong>
+<br><img src="https://img.shields.io/badge/Expert-5C3EE8?style=flat-square&logoColor=white"/>
+<br><sub>👁️ Computer Vision</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55"/>
+<br><strong>Pandas</strong>
+<br><img src="https://img.shields.io/badge/Expert-150458?style=flat-square&logoColor=white"/>
+<br><sub>📊 Data Analysis</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55" height="55"/>
+<br><strong>NumPy</strong>
+<br><img src="https://img.shields.io/badge/Expert-013243?style=flat-square&logoColor=white"/>
+<br><sub>🔢 Numerical Computing</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55" height="55"/>
+<br><strong>Jupyter</strong>
+<br><img src="https://img.shields.io/badge/Expert-F37626?style=flat-square&logoColor=white"/>
+<br><sub>📓 Interactive ML</sub>
+</td>
+<td align="center" width="130">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55"/>
+<br><strong>Scikit-learn</strong>
+<br><img src="https://img.shields.io/badge/Expert-F7931E?style=flat-square&logoColor=white"/>
+<br><sub>⚙️ ML Algorithms</sub>
+</td>
+<td align="center" width="130">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="55" height="55"/>
+<br><strong>Keras</strong>
+<br><img src="https://img.shields.io/badge/Advanced-D00000?style=flat-square&logoColor=white"/>
+<br><sub>🚀 High-level ML</sub>
+</td>
+</tr>
+</table>
 
 **🧠 Specializations:** Computer Vision • NLP • Deep Learning • Predictive Analytics • Voice Recognition
 
 </div>
 
 ## 🗄️ **Database & Storage Solutions**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+</div>
+
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55"/>
+<br><strong>MySQL</strong>
+<br><img src="https://img.shields.io/badge/Expert-4479A1?style=flat-square&logoColor=white"/>
+<br><sub>🔗 Relational DB</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/>
+<br><strong>MongoDB</strong>
+<br><img src="https://img.shields.io/badge/Expert-47A248?style=flat-square&logoColor=white"/>
+<br><sub>📄 Document DB</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/>
+<br><strong>PostgreSQL</strong>
+<br><img src="https://img.shields.io/badge/Advanced-336791?style=flat-square&logoColor=white"/>
+<br><sub>🐘 Advanced SQL</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="55" height="55"/>
+<br><strong>SQLite</strong>
+<br><img src="https://img.shields.io/badge/Advanced-003B57?style=flat-square&logoColor=white"/>
+<br><sub>📱 Embedded DB</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="55" height="55"/>
+<br><strong>Firebase</strong>
+<br><img src="https://img.shields.io/badge/Expert-FFCA28?style=flat-square&logoColor=black"/>
+<br><sub>☁️ Real-time DB</sub>
+</td>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="55" height="55"/>
+<br><strong>Redis</strong>
+<br><img src="https://img.shields.io/badge/Advanced-DC382D?style=flat-square&logoColor=white"/>
+<br><sub>⚡ In-Memory Cache</sub>
+</td>
+</tr>
+</table>
 
 **💾 Expertise:** Relational • NoSQL • Real-time Databases • Caching • Data Modeling
 
 </div>
 
 ## ☁️ **Cloud & DevOps Mastery**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+</div>
+
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55"/>
+<br><strong>AWS</strong>
+<br><img src="https://img.shields.io/badge/Advanced-FF9900?style=flat-square&logoColor=white"/>
+<br><sub>☁️ Cloud Leader</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/>
+<br><strong>Google Cloud</strong>
+<br><img src="https://img.shields.io/badge/Advanced-4285F4?style=flat-square&logoColor=white"/>
+<br><sub>🌐 GCP Services</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55"/>
+<br><strong>Docker</strong>
+<br><img src="https://img.shields.io/badge/Expert-2496ED?style=flat-square&logoColor=white"/>
+<br><sub>📦 Containerization</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="55" height="55"/>
+<br><strong>Kubernetes</strong>
+<br><img src="https://img.shields.io/badge/Advanced-326CE5?style=flat-square&logoColor=white"/>
+<br><sub>🚢 Orchestration</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"/>
+<br><strong>GitHub Actions</strong>
+<br><img src="https://img.shields.io/badge/Expert-2088FF?style=flat-square&logoColor=white"/>
+<br><sub>🔄 CI/CD Pipeline</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="55" height="55"/>
+<br><strong>Vercel</strong>
+<br><img src="https://img.shields.io/badge/Expert-000000?style=flat-square&logoColor=white"/>
+<br><sub>⚡ Edge Deployment</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="55" height="55"/>
+<br><strong>Netlify</strong>
+<br><img src="https://img.shields.io/badge/Advanced-00C7B7?style=flat-square&logoColor=white"/>
+<br><sub>🌐 JAMstack Deploy</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="55" height="55"/>
+<br><strong>Terraform</strong>
+<br><img src="https://img.shields.io/badge/Proficient-623CE4?style=flat-square&logoColor=white"/>
+<br><sub>🏗️ Infrastructure</sub>
+</td>
+</tr>
+</table>
 
 **☁️ Services:** Container Orchestration • CI/CD • Serverless • Microservices • Auto-scaling
 
 </div>
 
 ## 🛠️ **Development Tools & Workflow**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+</div>
+
 <div align="center">
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/>
+<br><strong>Git</strong>
+<br><img src="https://img.shields.io/badge/Expert-F05032?style=flat-square&logoColor=white"/>
+<br><sub>🔄 Version Control</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" height="55"/>
+<br><strong>VS Code</strong>
+<br><img src="https://img.shields.io/badge/Expert-007ACC?style=flat-square&logoColor=white"/>
+<br><sub>💻 Primary IDE</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="55" height="55"/>
+<br><strong>PyCharm</strong>
+<br><img src="https://img.shields.io/badge/Advanced-000000?style=flat-square&logoColor=white"/>
+<br><sub>🐍 Python IDE</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="55" height="55"/>
+<br><strong>Figma</strong>
+<br><img src="https://img.shields.io/badge/Advanced-F24E1E?style=flat-square&logoColor=white"/>
+<br><sub>🎨 UI/UX Design</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="130">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" height="55"/>
+<br><strong>Postman</strong>
+<br><img src="https://img.shields.io/badge/Expert-FF6C37?style=flat-square&logoColor=white"/>
+<br><sub>🔧 API Testing</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="55" height="55"/>
+<br><strong>Notion</strong>
+<br><img src="https://img.shields.io/badge/Advanced-000000?style=flat-square&logoColor=white"/>
+<br><sub>📝 Documentation</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="55" height="55"/>
+<br><strong>Slack</strong>
+<br><img src="https://img.shields.io/badge/Advanced-4A154B?style=flat-square&logoColor=white"/>
+<br><sub>💬 Team Communication</sub>
+</td>
+<td align="center" width="130">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="55" height="55"/>
+<br><strong>Jira</strong>
+<br><img src="https://img.shields.io/badge/Advanced-0052CC?style=flat-square&logoColor=white"/>
+<br><sub>📋 Project Management</sub>
+</td>
+</tr>
+</table>
 
 **⚡ Workflow:** Agile Development • Version Control • API Testing • Design Systems • Project Management
 
