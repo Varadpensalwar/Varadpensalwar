@@ -721,7 +721,7 @@ upcoming_projects = [
 <img src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
 ### 🔥 **GitHub Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varadpensalwar&theme=radical&hide_border=true&stroke=6C63FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Varadpensalwar&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 ### 💻 **AI/ML Language Distribution**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top Languages" />
