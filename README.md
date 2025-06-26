@@ -718,19 +718,52 @@ upcoming_projects = [
 <div align="center">
 
 ### 🏆 **GitHub Profile Performance**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
-### 🔥 **Coding Consistency**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Varadpensalwar&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=6C63FF)
+### 🔥 **Coding Consistency & Streak**
+<img src="https://streak-stats.demolab.com/?user=Varadpensalwar&theme=radical&hide_border=true&stroke=6C63FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=6C63FF&background=0D1117" alt="GitHub Streak" />
 
 ### 💻 **AI/ML Language Distribution**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 
 ### 🏅 **Achievement Showcase**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Varadpensalwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=Varadpensalwar&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title_color=6C63FF&text_color=FFFFFF" alt="GitHub Trophies" />
 
-### 📈 **Contribution Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varadpensalwar&theme=tokyo-night&hide_border=true&title_color=6C63FF&color=FF6B6B&line=4ECDC4&point=FFFFFF)
+### 📈 **Contribution Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varadpensalwar&theme=react-dark&hide_border=true&title_color=6C63FF&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117" alt="Contribution Graph" />
+
+### 🎯 **Profile Summary Card**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=radical" alt="Profile Summary" />
+
+### 📊 **Detailed Language Stats**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Varadpensalwar&theme=radical" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varadpensalwar&theme=radical" alt="Most Commit Language" />
+
+### 🕒 **Productive Time Analysis**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varadpensalwar&theme=radical&utcOffset=5.5" alt="Productive Time" />
+
+### 📈 **Commit Statistics**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varadpensalwar&theme=radical" alt="Stats" />
+
+### 🌟 **Additional Metrics**
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varadpensalwar&repo=PrepWise&theme=radical&hide_border=true&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" alt="PrepWise Repo" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varadpensalwar&repo=Ziggy-The-Voice-Assistantt&theme=radical&hide_border=true&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" alt="Ziggy Repo" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varadpensalwar&repo=realtime-spotify-clone&theme=radical&hide_border=true&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" alt="Music AI Repo" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Varadpensalwar&repo=Pets-Vibe&theme=radical&hide_border=true&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" alt="Pet Health AI Repo" />
+</td>
+</tr>
+</table>
 
 </div>
 
