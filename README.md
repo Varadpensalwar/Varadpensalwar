@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo-ps-style.svg" alt="Varad Pensalwar Network" width="240" height="36">
-
 # 🧠 **VARAD PENSALWAR** 🧠
 ### *AI/ML Engineer • Data Scientist • GenAI Specialist*
 
