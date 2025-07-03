@@ -46,11 +46,11 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ## 🌐 **CONNECT WITH THE AI Enthusiast**
 
-[![🌍 Portfolio](https://img.shields.io/badge/🌍_AI_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://varadpensalwar.github.io/)
-[![📧 Email](https://img.shields.io/badge/📧_Let's_Collaborate-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
-[![💼 LinkedIn](https://img.shields.io/badge/💼_Professional_Network-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
-[![🐦 Twitter](https://img.shields.io/badge/🐦_AI_Insights-45B7D1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PensalwarVarad)
-[![⭐ GitHub](https://img.shields.io/badge/⭐_Code_Repository-96CEB4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varadpensalwar)
+[![🌍 Portfolio](https://img.shields.io/badge/🌍Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://varadpensalwar.github.io/)
+[![📧 Email](https://img.shields.io/badge/📧Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
+[![💼 LinkedIn](https://img.shields.io/badge/💼LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
+[![🐦 Twitter](https://img.shields.io/badge/🐦Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PensalwarVarad)
+[![⭐ GitHub](https://img.shields.io/badge/⭐GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varadpensalwar)
 
 <img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=for-the-badge&label=AI+Enthusiasts+Visited"/>
 
