@@ -11,33 +11,27 @@
 
 <div align="center">
 
-## 🎯 **THE AI ARCHITECT**
+## 🎯 **THE AI Enthusiast**
 
 </div>
 
 ```python
 class VaradPensalwar:
     def __init__(self):
-        self.role = "AI/ML Engineer & Data Scientist"
-        self.education = "AIML B.Tech @ Sanjay Ghodawat University"
+        self.role = "AI/ML & Gen AI "
+        self.education = "B.Tech in AIML @ Sanjay Ghodawat University"
         self.location = "Pune, Maharashtra, India 🇮🇳"
         self.passion = "Building Intelligent Systems that Transform Reality"
         
         # Core AI/ML Expertise
-        self.ai_domains = {
-            "machine_learning": ["Supervised", "Unsupervised", "Reinforcement Learning"],
-            "deep_learning": ["CNNs", "RNNs", "Transformers", "GANs"],
-            "generative_ai": ["LLMs", "Diffusion Models", "Text-to-Image"],
-            "computer_vision": ["Object Detection", "Image Segmentation", "OCR"],
-            "nlp": ["Sentiment Analysis", "Named Entity Recognition", "Chatbots"],
-            "agentic_ai": ["Multi-Agent Systems", "Autonomous Agents"],
-            "mlops": ["Model Deployment", "Monitoring", "CI/CD for ML"]
+        self.ai_domain = {
+            "generative_ai": ["LLMs"],
         }
         
         self.current_focus = [
-            "🔥 Large Language Models & Fine-tuning",
-            "🎨 Multimodal AI (Vision + Language)",
-            "🤖 Autonomous AI Agents"
+            "🔥 Large Language Models & LangChain",
+            # "🎨 Multimodal AI (Vision + Language)",
+            # "🤖 Autonomous AI Agents"
         ]
     
     def get_mission(self):
@@ -50,7 +44,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-## 🌐 **CONNECT WITH THE AI ARCHITECT**
+## 🌐 **CONNECT WITH THE AI Enthusiast**
 
 [![🌍 Portfolio](https://img.shields.io/badge/🌍_AI_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://varadpensalwar.github.io/)
 [![📧 Email](https://img.shields.io/badge/📧_Let's_Collaborate-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
@@ -73,14 +67,14 @@ print(f"🚀 {ai_engineer.get_mission()}")
 | 💻 **Language** | 🎯 **Mastery Level** | 🚀 **AI/ML Applications** |
 |:---------------:|:--------------------:|:-------------------------:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **🔥 EXPERT** ⭐⭐⭐⭐⭐ | Deep Learning • Data Science • MLOps |
-| ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | **📊 ADVANCED** ⭐⭐⭐⭐ | Statistical Analysis • Data Visualization |
+<!-- | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | **📊 ADVANCED** ⭐⭐⭐⭐ | Statistical Analysis • Data Visualization | -->
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | **🗄️ EXPERT** ⭐⭐⭐⭐⭐ | Data Engineering • Analytics |
 
 </div>
 
 ---
 
-## 🤖 **Deep Learning & Neural Networks**
+<!-- ## 🤖 **Deep Learning & Neural Networks** -->
 
 <div align="center">
 
@@ -122,20 +116,20 @@ print(f"🚀 {ai_engineer.get_mission()}")
 </td>
 <td align="center" width="150">
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<br><strong>Transformers</strong>
+<br><strong>Anthropic</strong>
 </td>
 <td align="center" width="150">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
 <br><strong>LangChain</strong>
 </td>
-<td align="center" width="150">
+<!-- <td align="center" width="150">
 <img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge&logoColor=white"/>
 <br><strong>Diffusion Models</strong>
-</td>
+</td> -->
 </tr>
 </table>
 
-**🔮 GenAI Specializations:** Prompt Engineering • Model Fine-tuning • RAG Systems • Multi-modal AI • AI Agents
+**🔮 GenAI Specialization:**  AI Agents
 
 </div>
 
@@ -161,6 +155,10 @@ print(f"🚀 {ai_engineer.get_mission()}")
 </td>
 <td align="center" width="130">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<br><strong>Seaborn</strong>
+</td>
+<td align="center" width="130">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <br><strong>Jupyter</strong>
 </td>
 </tr>
@@ -176,14 +174,14 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <table>
 <tr>
-<td align="center" width="150">
+<!-- <td align="center" width="150">
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white"/>
 <br><strong>MLflow</strong>
 </td>
 <td align="center" width="150">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <br><strong>Docker</strong>
-</td>
+</td> -->
 <td align="center" width="150">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <br><strong>FastAPI</strong>
