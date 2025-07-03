@@ -56,7 +56,10 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 </div>
 
----
+
+
+
+<!-- ---
 
 # 🧠 **AI/ML TECHNOLOGY STACK**
 
@@ -71,10 +74,14 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 </div>
 
----
+--- -->
+
+
+
+
 
 <!-- ## 🤖 **Deep Learning & Neural Networks** -->
-
+<!-- 
 <div align="center">
 
 <table>
@@ -101,7 +108,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 </div>
 
----
+--- -->
 
 ## 🔮 **Generative AI & Large Language Models**
 
