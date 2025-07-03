@@ -199,6 +199,31 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ---
 
+## 🚀 **Web Development**
+
+<div align="center">
+
+<table>
+<tr>
+<!-- <td align="center" width="150">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white"/>
+<br><strong>MLflow</strong>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br><strong>Docker</strong>
+</td> -->
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/Viber-Coder-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br><strong>Vibe Coder</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 **GitHub Stats**
 
 <div align="center">
