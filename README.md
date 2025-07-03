@@ -214,7 +214,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 <br><strong>Docker</strong>
 </td> -->
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Vibe Coder-009688?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/Vibe Coder-009688?style=for-the-badge&logo=viber&logoColor=white" />
 <br><strong>Vibe Coder</strong>
 </td>
 </tr>
