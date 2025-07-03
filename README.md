@@ -217,7 +217,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ![Learning](https://img.shields.io/badge/🔥_Mastering-Large_Language_Models-6C63FF?style=for-the-badge&logoColor=white)
 ![Learning](https://img.shields.io/badge/🚀_Exploring-Agentic_AI_Systems-FF6B6B?style=for-the-badge&logoColor=white)
-![Learning](https://img.shields.io/badge/🧠_Researching-Multimodal_AI-4ECDC4?style=for-the-badge&logoColor=white)
+<!-- ![Learning](https://img.shields.io/badge/🧠_Researching-Multimodal_AI-4ECDC4?style=for-the-badge&logoColor=white) -->
 
 ### 💼 **Professional Status**
 [![Open for AI Roles](https://img.shields.io/badge/🤖_Status-Open_for_AI%2FML_Opportunities-6C63FF?style=for-the-badge&logoColor=white)](mailto:varadpensalwar@gmail.com)
