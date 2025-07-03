@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🧠 **VARAD PENSALWAR** 🧠
-### *Gen AI Engineer 
+### Gen AI Engineer 
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=🤖+AI%2FML+Engineer+%26+Researcher;🧠+Deep+Learning+%26+Neural+Networks;🔮+Generative+AI+%26+LLM+Specialist;🎯+Computer+Vision+%26+NLP+Expert" alt="AI Typing Animation" /> -->
 
@@ -121,7 +121,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 <br><strong>GPT Models</strong>
 </td>
 <td align="center" width="150">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Anthropic-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <br><strong>Anthropic</strong>
 </td>
 <td align="center" width="150">
@@ -174,7 +174,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ---
 
-## 🚀 **MLOps & Production AI**
+## 🚀 **Frameworks**
 
 <div align="center">
 
