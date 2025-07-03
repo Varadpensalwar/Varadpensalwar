@@ -203,7 +203,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadpensalwar&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadpensalwar&theme=black)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
