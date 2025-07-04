@@ -19,8 +19,7 @@ class VaradPensalwar:
         
         self.current_focus = [
             "🔥 Large Language Models & LangChain",
-            # "🎨 Multimodal AI (Vision + Language)",
-            # "🤖 Autonomous AI Agents"
+            
         ]
     
     def get_mission(self):
@@ -107,12 +106,28 @@ print(f"🚀 {ai_engineer.get_mission()}")
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+<div align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=10" alt="Top Languages" />
+</div>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </div>
+
+
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Varadpensalwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
+
+
+
+
 
