@@ -48,57 +48,6 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 
 
-<!-- ---
-
-# 🧠 **AI/ML TECHNOLOGY STACK**
-
-## 🐍 **Core AI/ML Languages**
-
-<div align="center">
-
-| 💻 **Language** | 🎯 **Mastery Level** | 🚀 **AI/ML Applications** |
-|:---------------:|:--------------------:|:-------------------------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | **🔥 EXPERT** ⭐⭐⭐⭐⭐ | Deep Learning • Data Science • MLOps |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | **🗄️ EXPERT** ⭐⭐⭐⭐⭐ | Data Engineering • Analytics |
-
-</div>
-
---- -->
-
-
-
-
-
-<!-- ## 🤖 **Deep Learning & Neural Networks** -->
-<!-- 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-<br><strong>🧠 TensorFlow</strong>
-<br><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-<br><strong>🔥 PyTorch</strong>
-<br><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-<br><strong>🚀 JAX</strong>
-<br><img src="https://img.shields.io/badge/JAX-FF6B35?style=flat-square&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-**🧠 Neural Architectures:** CNNs • RNNs • Transformers • GANs • VAEs • Diffusion Models
-
-</div>
-
---- -->
-
 ## 🔮 **Generative AI & Large Language Models**
 
 <div align="center">
