@@ -1,6 +1,6 @@
 <div align="center">
 
-#**VARAD PENSALWAR** 
+# **VARAD PENSALWAR** 
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=🤖+AI%2FML+Engineer+%26+Researcher;🧠+Deep+Learning+%26+Neural+Networks;🔮+Generative+AI+%26+LLM+Specialist;🎯+Computer+Vision+%26+NLP+Expert" alt="AI Typing Animation" /> -->
 
