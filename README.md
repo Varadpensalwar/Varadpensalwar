@@ -37,9 +37,9 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 [![Website](https://img.shields.io/badge/Website-MySite-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
-[![Email](https://img.shields.io/badge/Email-ContactMe-e64313?style=plastic&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=plastic&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-MyCode-33333?style=plastic&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-ContactMe-e64313?style=plastic&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=plastic&logo=x&logoColor=white)](https://x.com/PensalwarVarad)
+[![GitHub](https://img.shields.io/badge/GitHub-MyCode-33333?style=plastic&logo=github&logoColor=white)](https://github.com/Varadpensalwar)
 
 
 
