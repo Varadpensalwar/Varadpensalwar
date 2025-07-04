@@ -124,8 +124,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 
 
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" />
+
 
 
 
