@@ -99,7 +99,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 **GitHub Stats**
 
 <div align="center">
 
