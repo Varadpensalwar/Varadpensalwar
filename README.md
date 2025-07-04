@@ -43,9 +43,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=for-the-badge&label=AI+Enthusiasts+Visited"/>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
 
 
 
