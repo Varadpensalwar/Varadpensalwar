@@ -44,13 +44,15 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-## 🌐 **CONNECT WITH THE AI Enthusiast**
+## 🌐 **CONNECT WITH ME**
 
-[![🌍 Portfolio](https://img.shields.io/badge/🌍Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://varadpensalwar.github.io/)
-[![📧 Email](https://img.shields.io/badge/📧Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
-[![💼 LinkedIn](https://img.shields.io/badge/💼LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
-[![🐦 Twitter](https://img.shields.io/badge/🐦Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/PensalwarVarad)
-[![⭐ GitHub](https://img.shields.io/badge/⭐GitHub-96CEB4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varadpensalwar)
+[![Website](https://img.shields.io/badge/Website-MySite-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
+[![Email](https://img.shields.io/badge/Email-ContactMe-e64313?style=plastic&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=plastic&logo=x&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-MyCode-33333?style=plastic&logo=github&logoColor=white)](https://github.com/yourusername)
+
+
 
 <img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=for-the-badge&label=AI+Enthusiasts+Visited"/>
 
@@ -114,26 +116,12 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<br><strong>GPT Models</strong>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Anthropic-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<br><strong>Anthropic</strong>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-<br><strong>LangChain</strong>
-</td>
-<!-- <td align="center" width="150">
-<img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge&logoColor=white"/>
-<br><strong>Diffusion Models</strong>
-</td> -->
-</tr>
-</table>
+
+![LangChain](https://img.shields.io/badge/LangChain-Framework-00b894?style=plastic&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-636363?style=plastic&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-LLM-ff7675?style=plastic&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Model-0984e3?style=plastic&logo=deepnote&logoColor=white)
+
 
 **🔮 GenAI Specialization:**  AI Agents
 
@@ -145,30 +133,12 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<br><strong>Pandas</strong>
-</td>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<br><strong>NumPy</strong>
-</td>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<br><strong>Scikit-learn</strong>
-</td>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<br><strong>Seaborn</strong>
-</td>
-<td align="center" width="130">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<br><strong>Jupyter</strong>
-</td>
-</tr>
-</table>
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?style=plastic&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Library-f7931e?style=plastic&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-00cec9?style=plastic&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white)
+
 
 </div>
 
@@ -178,22 +148,8 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-<table>
-<tr>
-<!-- <td align="center" width="150">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white"/>
-<br><strong>MLflow</strong>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<br><strong>Docker</strong>
-</td> -->
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<br><strong>FastAPI</strong>
-</td>
-</tr>
-</table>
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?style=plastic&logo=fastapi&logoColor=white)
+
 
 </div>
 
@@ -203,22 +159,8 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 <div align="center">
 
-<table>
-<tr>
-<!-- <td align="center" width="150">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white"/>
-<br><strong>MLflow</strong>
-</td>
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<br><strong>Docker</strong>
-</td> -->
-<td align="center" width="150">
-<img src="https://img.shields.io/badge/Vibe Coder-009688?style=for-the-badge&logo=viber&logoColor=white" />
-<br><strong>Vibe Coder</strong>
-</td>
-</tr>
-</table>
+![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-Cursor-2C3E50?style=plastic&logo=gnubash&logoColor=white)
+
 
 </div>
 
@@ -238,28 +180,3 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 </div>
 
-
----
-
-## 🌱 **Learning & Exploration**
-
-<div align="center">
-
-![Learning](https://img.shields.io/badge/🔥_Mastering-Large_Language_Models-6C63FF?style=for-the-badge&logoColor=white)
-![Learning](https://img.shields.io/badge/🚀_Exploring-Agentic_AI_Systems-FF6B6B?style=for-the-badge&logoColor=white)
-<!-- ![Learning](https://img.shields.io/badge/🧠_Researching-Multimodal_AI-4ECDC4?style=for-the-badge&logoColor=white) -->
-
-### 💼 **Professional Status**
-[![Open for AI Roles](https://img.shields.io/badge/🤖_Status-Open_for_AI%2FML_Opportunities-6C63FF?style=for-the-badge&logoColor=white)](mailto:varadpensalwar@gmail.com)
-[![Research Collaboration](https://img.shields.io/badge/🔬_Research-Collaboration_Welcome-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/Varadpensalwar)
-
-</div>
-
----
-
-<div align="center">
-
-### 🧠 **"The future belongs to those who understand AI"** 🧠
-### 🚀 **"Let's build that future together"** 🚀
-
-</div>
