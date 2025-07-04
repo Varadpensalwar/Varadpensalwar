@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 🎯 **THE GENERATIVE AI Enthusiast**
+## 🎯 **THE GENERATIVE AI ENTHUSIAST**
 
 </div>
 
