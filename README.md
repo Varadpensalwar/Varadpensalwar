@@ -58,8 +58,6 @@ print(f"🚀 {ai_engineer.get_mission()}")
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-Model-0984e3?style=plastic&logo=deepnote&logoColor=white)
 
 
-**🔮 GenAI Specialization:**  AI Agents
-
 </div>
 
 ---
@@ -101,7 +99,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ---
 
-## 📊 **GitHub Stats**
+### 📊 **GitHub Stats**
 
 <div align="center">
 
