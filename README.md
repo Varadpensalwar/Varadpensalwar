@@ -38,7 +38,6 @@ class VaradPensalwar:
 
 # Initialize the AI Engineer
 ai_engineer = VaradPensalwar()
-
 print(f"🚀 {ai_engineer.get_mission()}")
 ```
 
