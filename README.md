@@ -3,14 +3,14 @@
 ```python
 class VaradPensalwar:
     def __init__(self):
-        self.role = "AI/ML & Gen AI "
+        self.role = "Gen AI"
         self.education = "B.Tech in AIML @ Sanjay Ghodawat University"
-        self.location = "Pune, Maharashtra, India 🇮🇳"
+        self.location = "Pune, Maharashtra, India"
         self.passion = "Building Intelligent Systems that Transform Reality"
         
         # Core AI/ML Expertise
         self.ai_domain = {
-            "generative_ai": ["LLMs"],
+            "generative_ai": ["LLMs", "LangChain", "OpenAI", ],
         }
         
         self.current_focus = [
@@ -23,6 +23,7 @@ class VaradPensalwar:
 
 # Initialize the AI Engineer
 ai_engineer = VaradPensalwar()
+
 print(f"🚀 {ai_engineer.get_mission()}")
 ```
 
