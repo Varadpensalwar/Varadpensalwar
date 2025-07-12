@@ -4,7 +4,7 @@
 class VaradPensalwar:
     def __init__(self):
         self.name = "Varad Pensalwar"
-        self.role = "AI/ML & Generative AI Engineer"
+        self.role = "Generative AI Engineer"
         self.education = "B.Tech in AIML @ Sanjay Ghodawat University"
         self.location = "Pune, Maharashtra, India 🇮🇳"
         self.passion = "Building Intelligent Systems that Transform Reality"
