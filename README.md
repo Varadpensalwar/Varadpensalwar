@@ -6,7 +6,7 @@ class VaradPensalwar:
         self.name = "Varad Pensalwar"
         self.role = "Generative AI Engineer"
         self.education = "B.Tech in AIML @ Sanjay Ghodawat University"
-        self.location = "Pune, Maharashtra, India 🇮🇳"
+        self.location = "Pune, Maharashtra, India"
         self.passion = "Building Intelligent Systems that Transform Reality"
 
         # Core AI/ML Expertise
