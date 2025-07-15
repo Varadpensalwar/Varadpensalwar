@@ -20,6 +20,7 @@ class VaradPensalwar:
             "🔥 Large Language Models",
             "🔥 LangChain",
             "🔥 Generative AI Applications"
+            "🔥RAG"
         ]
 
     def get_mission(self):
@@ -45,7 +46,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ## 🌐 **CONNECT WITH ME**
 
-[![Website](https://img.shields.io/badge/Website-MySite-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Website-Website-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
 [![Email](https://img.shields.io/badge/Email-ContactMe-e64313?style=plastic&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=plastic&logo=x&logoColor=white)](https://x.com/PensalwarVarad)
