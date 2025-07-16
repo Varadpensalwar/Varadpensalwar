@@ -74,7 +74,7 @@ print(f"🚀 {ai_engineer.get_mission()}")
 
 ---
 
-## 📊 **Data Science & Analytics**
+## 📊 **Data Analytics**
 
 <div align="center">
 
