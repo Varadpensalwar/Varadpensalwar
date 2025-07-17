@@ -20,7 +20,7 @@ class VaradPensalwar:
             "🔥 Large Language Models",
             "🔥 LangChain",
             "🔥 Generative AI Applications"
-            "🔥RAG"
+            "🔥 RAG"
         ]
 
     def get_mission(self):
