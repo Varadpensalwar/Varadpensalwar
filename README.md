@@ -115,13 +115,13 @@ print(ai_engineer.introduce())
 
 <div align="center">
 
+<div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=10" alt="Top Languages" /> </div>
+
+
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Varadpensalwar's Stats" />
 </p>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=6C63FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
 <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </div>
