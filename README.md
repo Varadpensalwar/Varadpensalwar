@@ -129,7 +129,7 @@ print(ai_engineer.introduce())
 
 
 <div align="center">
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=varadpensalwar&theme=onedark)](https://github.com/varadpensalwar/github-profile-trophy)" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Varadpensalwar" alt="GitHub Trophies" />
 </div>
 
 
