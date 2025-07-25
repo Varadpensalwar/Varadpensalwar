@@ -59,7 +59,7 @@ print(ai_engineer.introduce())
 
 
 
-## Technologies
+## **Technologies**
  
 <table>
 <tr>
