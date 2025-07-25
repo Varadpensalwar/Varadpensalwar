@@ -42,11 +42,10 @@ print(ai_engineer.introduce())
 
 <div align="center">
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="35" height="35" />
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/globe-alt.svg" alt="Globe" width="35" height="35" />
   <strong>CONNECT WITH ME</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-</h2>
+</h1>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 [![Portfolio](https://img.shields.io/badge/Portflio-Website-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
@@ -62,11 +61,10 @@ print(ai_engineer.introduce())
 
 
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" />
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/cog-6-tooth.svg" alt="Technologies" width="35" height="35" />
   <strong>TECHNOLOGIES</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="35" height="35" />
-</h2>
+</h1>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <table>
@@ -88,11 +86,10 @@ print(ai_engineer.introduce())
 </tr>
 </table>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" />
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="GitHub Stats" width="35" height="35" />
   <strong>GITHUB STATS</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" />
-</h2>
+</h1>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <div align="center">
