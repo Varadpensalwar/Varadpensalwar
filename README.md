@@ -44,7 +44,7 @@ print(ai_engineer.introduce())
 
 <div align="center">
 
-## 🌐 **CONNECT WITH ME**
+🌐 **CONNECT WITH ME**
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 [![Portfolio](https://img.shields.io/badge/Portflio-Website-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
