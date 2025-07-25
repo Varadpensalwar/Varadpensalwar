@@ -43,10 +43,8 @@ print(ai_engineer.introduce())
 <div align="center">
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/globe-alt.svg" alt="Globe" width="35" height="35" />
-  <strong>CONNECT WITH ME</strong>
+  🌐 <strong>CONNECT WITH ME</strong>
 </h1>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 [![Portfolio](https://img.shields.io/badge/Portflio-Website-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
@@ -62,10 +60,8 @@ print(ai_engineer.introduce())
 
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/cog-6-tooth.svg" alt="Technologies" width="35" height="35" />
-  <strong>TECHNOLOGIES</strong>
+  ⚙️ <strong>TECHNOLOGIES</strong>
 </h1>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <table>
 <tr>
