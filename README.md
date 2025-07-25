@@ -82,7 +82,7 @@ print(ai_engineer.introduce())
 </tr>
 </table>
 
-## 📊 **GitHub Stats**
+📊 **GitHub Stats**
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <div align="center">
