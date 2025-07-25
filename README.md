@@ -59,56 +59,28 @@ print(ai_engineer.introduce())
 
 
 
-## 🔮 **Generative AI & Large Language Models**
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,postgresql,prisma,firebase" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python,c&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,vercel&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
+</tr>
+</table>
 
-<div align="center">
-
-
-![LangChain](https://img.shields.io/badge/LangChain-Framework-00b894?style=plastic&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-636363?style=plastic&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-LLM-ff7675?style=plastic&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-Model-0984e3?style=plastic&logo=deepnote&logoColor=white)
-
-
-</div>
-
----
-
-## 📊 **Data Analytics**
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-013243?style=plastic&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Library-f7931e?style=plastic&logo=scikitlearn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-00cec9?style=plastic&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=plastic&logo=jupyter&logoColor=white)
-
-
-</div>
-
----
-
-## 🚀 **Frameworks**
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?style=plastic&logo=fastapi&logoColor=white)
-
-
-</div>
-
----
-
-## 🚀 **Web Development**
-
-<div align="center">
-
-![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-Cursor-2C3E50?style=plastic&logo=gnubash&logoColor=white)
-
-
-</div>
-
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 ---
 
 ## 📊 **GitHub Stats**
