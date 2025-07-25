@@ -61,6 +61,7 @@ print(ai_engineer.introduce())
 
 
 ## **Technologies**
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
  
 <table>
 <tr>
@@ -81,9 +82,8 @@ print(ai_engineer.introduce())
 </tr>
 </table>
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
 ## 📊 **GitHub Stats**
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <div align="center">
 
