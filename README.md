@@ -83,14 +83,12 @@ print(ai_engineer.introduce())
 </table>
 
 <h1 align="center">
+	
   <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="GitHub Stats" width="35" height="35" />
   <strong>GITHUB STATS</strong>
 </h1>
 <div align="center">
-
 <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=10" alt="Top Languages" /> </div>
-
-
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Varadpensalwar's Stats" />
@@ -98,8 +96,6 @@ print(ai_engineer.introduce())
 
 <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </div>
-
-
 
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=Varadpensalwar" alt="GitHub Trophies" />
