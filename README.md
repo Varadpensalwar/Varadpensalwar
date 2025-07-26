@@ -69,8 +69,8 @@ print(ai_engineer.introduce())
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,express,mongodb,postgresql,prisma,firebase" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,scikit-learn" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=python &theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Generative AI</strong></td>
