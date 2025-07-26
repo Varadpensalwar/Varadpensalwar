@@ -62,24 +62,43 @@ print(ai_engineer.introduce())
 <h1 align="center">
   ⚙️ <strong>TECHNOLOGIES</strong>
 </h1>
- 
+
 <table>
-<tr>
-	<td><strong>Data Analytics</strong></td>
-	<td><strong>Languages</strong></td>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,scikit-learn" ></td>
-		<td><img src="https://skillicons.dev/icons?i=python,sql&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Generative AI</strong></td>
-	<td><strong>Tools</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,vercel&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>Data Analytics</strong></td>
+    <td><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+      <!-- Seaborn, matplotlib, scikit-learn icons not available in Devicon -->
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Generative AI</strong></td>
+    <td><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+      <!-- No icon for Vercel in Devicon -->
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+      <!-- No icon for GitHub Actions in Devicon -->
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">
