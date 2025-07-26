@@ -65,7 +65,7 @@ print(ai_engineer.introduce())
  
 <table>
 <tr>
-	<td><strong>Web Development</strong></td>
+	<td><strong>Data Analytics</strong></td>
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ print(ai_engineer.introduce())
 		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python,c&theme=dark"></td>
 </tr>
 <tr>
-	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Generative AI</strong></td>
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
