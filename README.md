@@ -77,7 +77,7 @@ print(ai_engineer.introduce())
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/mysql-original.svg" height="40" />
     </td>
   </tr>
   <tr>
