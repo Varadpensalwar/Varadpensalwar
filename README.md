@@ -69,7 +69,7 @@ print(ai_engineer.introduce())
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=python,sql,react,tailwind,nodejs,express,mongodb,postgresql,prisma,firebase" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=python,SQL,react,tailwind,nodejs,express,mongodb,postgresql,prisma,firebase" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=javascript,java,python,c&theme=dark"></td>
 </tr>
 <tr>
