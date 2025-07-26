@@ -70,6 +70,12 @@ print(ai_engineer.introduce())
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,scikit-learn" ></td>
+	<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/seaborn-2e4a62?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
 		<td><img src="https://skillicons.dev/icons?i=python,sql&theme=dark"></td>
 </tr>
 <tr>
