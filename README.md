@@ -70,7 +70,7 @@ print(ai_engineer.introduce())
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=python,numpy,pandas,seaborn,matplotlib,scikit-learn" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=python, sql &theme=dark"></td>
+		<td><img src="https://skillicons.dev/icons?i=python,sql&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Generative AI</strong></td>
