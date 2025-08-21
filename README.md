@@ -1,7 +1,7 @@
 ```python
 class VaradPensalwar:
     def __init__(self):
-        self.name = "Varad S. Pensalwar"
+        self.name = "Varad Pensalwar"
         self.role = "Generative AI Engineer"
         self.education = "B.Tech in AIML @ Sanjay Ghodawat University, Kolhapur"
         self.location = "Pune, Maharashtra, India"
