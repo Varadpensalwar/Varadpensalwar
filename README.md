@@ -17,7 +17,7 @@ class VaradPensalwar:
         self.current_focus = [
             "🔥 Large Language Models",
             "🔥 LangChain",
-            "🔥 Generative AI Applications"
+            "🔥 Generative AI Applications",
             "🔥 RAG"
         ]
 
