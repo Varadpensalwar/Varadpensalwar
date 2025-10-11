@@ -82,7 +82,6 @@ print(ai_engineer.introduce())
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" alt="LangChain" height="40" />
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
     </td>
