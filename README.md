@@ -56,7 +56,7 @@ print(ai_engineer.introduce())
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
 
-
+<h1>
   <strong>GITHUB STATS</strong>
 </h1>
 
