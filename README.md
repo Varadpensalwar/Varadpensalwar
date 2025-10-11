@@ -54,9 +54,7 @@ print(ai_engineer.introduce())
 
 
 
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
 
 
 <h1 align="center">
@@ -102,8 +100,9 @@ print(ai_engineer.introduce())
   <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="GitHub Stats" width="35" height="35" />
   <strong>GITHUB STATS</strong>
 </h1>
-![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
+
 <div align="center">
+	
 <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=10" alt="Top Languages" /> </div>
 
 <p align="center">
