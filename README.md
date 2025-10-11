@@ -57,46 +57,6 @@ print(ai_engineer.introduce())
 ![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
 
 
-<h1 align="center">
-  ⚙️ <strong>TECHNOLOGIES</strong>
-</h1>
-
-<table>
-  <tr>
-    <td><strong>Data Analytics</strong></td>
-    <td><strong>Languages</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Generative AI</strong></td>
-    <td><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-    </td>
-     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-      <!-- No icon for GitHub Actions in Devicon -->
-    </td>
-  </tr>
-</table>
-
-<h1 align="center">
-	
-  <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="GitHub Stats" width="35" height="35" />
   <strong>GITHUB STATS</strong>
 </h1>
 
