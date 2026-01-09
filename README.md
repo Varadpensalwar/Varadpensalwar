@@ -64,7 +64,7 @@ print(ai_engineer.introduce())
 
 <div align="center">
 	
-<div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpensalwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10&langs_count=10" alt="Top Languages" /> </div>
+<div align="center"> <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=default" alt="Top Languages" /> </div>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Varadpensalwar's Stats" />
