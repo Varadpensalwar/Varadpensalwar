@@ -67,9 +67,7 @@ print(ai_engineer.introduce())
 	
 <div align="center"> <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=default" alt="Top Languages" /> </div>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Varadpensalwar&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Varadpensalwar's Stats" />
-</p>
+
 
 <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </div>
