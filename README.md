@@ -65,7 +65,6 @@ print(ai_engineer.introduce())
 
 <div align="center">
 	
-<div align="center"> <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=default" alt="Top Languages" /> </div>
 
 
 
