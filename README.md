@@ -1,5 +1,3 @@
-<div align="center">
-
 ```python
 class VaradPensalwar:
     def __init__(self):
@@ -52,6 +50,4 @@ print(ai_engineer.introduce())
 <div align="center">
 <div align="center"> <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=default" alt="Top Languages" /> </div>
 <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Varadpensalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&border_radius=10" alt="GitHub Streak" />
-</div>
-
 </div>
