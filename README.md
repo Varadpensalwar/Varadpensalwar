@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
 [![Email](https://img.shields.io/badge/Email-ContactMe-e64313?style=plastic&logo=gmail&logoColor=white)](mailto:varadpensalwar@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=plastic&logo=x&logoColor=white)](https://x.com/PensalwarVarad)
+[![Linktree](https://img.shields.io/badge/Linktree-Varad-43E660?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/VaradPensalwar)
 
 </h1>
 
