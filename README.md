@@ -59,9 +59,10 @@ print(ai_engineer.introduce())
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
+
 
 <h1 align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
 
   <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" alt="GitHub Stats" width="35" height="35" />
   <strong>GITHUB STATS</strong>
