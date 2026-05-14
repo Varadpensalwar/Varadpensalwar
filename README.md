@@ -60,9 +60,12 @@ print(ai_engineer.introduce())
 
 <div align="center">
 
-<div align="center"> 
-	![Profile Views](https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views)
-	<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=default" alt="Top Languages" /> 
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Varadpensalwar&color=6C63FF&style=plastic&label=Profile+Views" alt="Profile Views" />
+  <br><br>
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varadpensalwar&theme=default" alt="Top Languages" /> 
+  
 </div>
 
 
