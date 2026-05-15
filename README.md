@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portflio-Website-0abde3?style=plastic&logo=google-chrome&logoColor=white)](https://varadpensalwar.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-000000?style=plastic&logo=x&logoColor=white)](https://x.com/VaradPensalwar)
 [![Linktree](https://img.shields.io/badge/Linktree-Varad-43E660?style=plastic&logo=linktree&logoColor=white)](https://linktr.ee/VaradPensalwar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-pensalwar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varadpensalwar/)
 
 </h1>
 
